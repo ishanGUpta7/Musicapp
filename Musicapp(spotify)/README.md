@@ -1,12 +1,5 @@
 # Flutter-Spotify
 
-## [Watch it on Youtube](https://www.youtube.com/channel/UCM1OzZsZ5FQIg01vdKGAw7g)
-
-Spotify Ui Design
-
- In this repository contains Redesign Spotify App using Flutter.
-
-## Screenshots
 
 
 ## Pull Requests
