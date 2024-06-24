@@ -1,4 +1,6 @@
 # Flutter-Spotify
+![image](https://github.com/ishanGUpta7/Musicapp/assets/86247288/2a3b3259-fa4a-4bdb-85fe-4cfda49921f2)
+
 
 
 
